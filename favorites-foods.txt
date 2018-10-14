@@ -1,0 +1,7 @@
+biryani[cereal]
+cheese burger[fat]
+chicken[meat]
+icecream[dessert]
+gulab jamun[dessert]
+icecream[dessert]
+tomato[vegitable]
