@@ -1,6 +1,6 @@
-gulab jamun
-
-Lettuce
-hyderabad dam 
+gulab jamun[dessert]
+IceCream[dessert]
+Lettuce[vegitable]
+hyderabad biryani[meat]
 fish fry
 
