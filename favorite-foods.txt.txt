@@ -2,5 +2,5 @@ gulab jamun[dessert]
 IceCream[dessert]
 Lettuce[vegitable]
 hyderabad biryani[meat]
-fish fry
+fish fry[meat]
 
