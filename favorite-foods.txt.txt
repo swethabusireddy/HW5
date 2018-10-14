@@ -1,6 +1,7 @@
-gulab jamun[dessert]
-IceCream[dessert]
-Lettuce[vegitable]
-hyderabad biryani[meat]
-fish fry[meat]
+gulab jamun
+Biryani
+Lettuce
+hyderabad dam 
+dominos pizza
+fish fry
 
